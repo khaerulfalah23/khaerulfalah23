@@ -10,7 +10,7 @@
   
 🎓 Information systems student
 
-👨‍💻 loves creating solutions through code
+👨‍💻 Loves creating solutions through code
 
 🔭 Exploring the realm of web development
 
